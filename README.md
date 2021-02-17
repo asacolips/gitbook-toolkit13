@@ -4,7 +4,7 @@
 
 ## What is Toolkit13 \(13th Age Compatible\)?
 
-Toolkit13 is an Archmage Engine Compatible and 13th Age Compatible game System for FoundryVTT, enabling you to play any of the TTRPG's that utilize the core components of the Archmage Engine, such as Icon Relationships or Powers. The system includes 13th Age SRD content, such as Classes and Monsters. Most of the system was written by asacolips\#1867 \(Discord\), with cswendrowski\#9701 joining later to assist.
+Toolkit13 is an Archmage Engine Compatible and 13th Age Compatible game System for FoundryVTT, enabling you to play any of the TTRPG's that utilize the core components of the Archmage Engine, such as Icon Relationships or Powers. The system includes 13th Age SRD content, such as Classes and Monsters. Most of the system was written by asacolips\#1867 \(Discord\), with cswendrowski\#9701 joining later to assist. 
 
 ## Quick System Overview
 
