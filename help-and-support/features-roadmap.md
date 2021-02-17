@@ -9,6 +9,7 @@ The following priorities are the general roadmap we're expecting to develop in t
 * Documentation
 * Add inline rolls to all compendiums
 * Full Heal-Up and Quick Rest
+* Refactor roll class
 * Sheet redesign
 * Active Effects
 * Compendium Browser
