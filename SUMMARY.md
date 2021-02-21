@@ -4,12 +4,14 @@
 
 ## Getting Started
 
-* [How to Make a Character](getting-started/how-to-make-a-character.md)
+* [How to Make a Character](getting-started/how-to-make-a-character/README.md)
+  * [Create a new character](getting-started/how-to-make-a-character/create-a-new-character.md)
 * [How to Make Powers, Actions, and Magic Items](getting-started/how-to-make-powers-actions-and-magic-items.md)
 * [How to Make a Monster](getting-started/how-to-make-a-monster.md)
 * [Running Combat](getting-started/combat.md)
 * [Useful Macros \(Active Effects\)](getting-started/useful-macros-active-effects.md)
 * [Common Workarounds for Missing Features](getting-started/common-workarounds-for-missing-features.md)
+* [System Settings](getting-started/system-settings.md)
 
 ## Integrations
 
