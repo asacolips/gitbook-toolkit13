@@ -152,9 +152,38 @@ Once you're in the text editor, you can either paste in your content or edit the
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
-## Equipment and Magic ITems
+## Equipment and Magic Items
 
-TODO
+The **Equipment** tab of your character sheet collects your characters currency and any items currently equipped. There isn't currently a way to mark whether an item is equipped or just stored, but that will likely be added in a future release.
 
+To add an item to your character, you can either create an item in the **Items** tab of Foundry's right sidebar and then drag/drop it onto your character sheet, or you can create a new item directly on the character sheet. In either case, the form for editing the item's properties is the same, as listed in the screenshot below:
 
+![](../.gitbook/assets/image%20%2816%29.png)
+
+Magic items have several special properties that will affect your power rolls if you're using the powers included in the SRD compendiums.
+
+### Attack Bonuses
+
+Items have 4 categories of attack bonuses:
+
+* **Melee Attack Bonus** - Your bonus to attack rolls and damage rolls via the `@atk.m.bonus` attribute in inline rolls.
+* **Ranged Attack Bonus** - Your bonus to attack rolls and damage rolls via the `@atk.r.bonus` attribute in inline rolls.
+* **Divine Attack Bonus** - Your bonus to attack rolls and damage rolls via the `@atk.d.bonus` attribute in inline rolls. Typically applies to spells on the _Cleric_ and _Druid_ spell lists.
+* **Arcane Attack Bonus** - Your bonus to attack rolls and damage rolls via the `@atk.a.bonus` attribute in inline rolls. __Typically applies to spells on the _Bard_, _Chaos Mage_, _Occultist_, _Sorcerer_, and _Wizard_ spell lists.
+
+### Defense Bonuses
+
+Items have 7 categories of defense bonuses:
+
+* **AC Bonus** - Your bonus to AC.
+* **PD Bonus** - Your bonus to PD.
+* **MD Bonus** - Your bonus to MD.
+* **HP Bonus** - Your bonus to maximum hit points if using the **Calculate Max HP?** setting on your character sheet.
+* **Recoveries Bonus** - Your bonus to maximum recoveries if using the **Calculate Max Recoveries?** setting on your character sheet.
+* **Save Bonus** - Your bonus to saving throws \(reduces the target number\).
+* **Disengage Bonus** - Your bonus to disengage checks \(reduces the target number\).
+
+### Chakra Slot
+
+You can choose the chakra slot associate with the item. The system does not currently enforce only one item per chakra.
 
