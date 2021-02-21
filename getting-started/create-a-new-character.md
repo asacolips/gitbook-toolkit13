@@ -1,8 +1,8 @@
-# Create a new character
+# How to create a new Character
 
 To make a new character go to the Actors tab and click the **Create actor** button. Choose **Character** at the prompt that appears, and then confirm. You should then see a blank sheet similar to the following. Each of the magic sections of the sheet have been annotated, and we'll go into more detail on each of them below.
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 ## Character Statistics \(HP, Defenses, Recoveries\)
 
@@ -14,5 +14,43 @@ Calculating out stats based on class is a setting in the system under **Settings
 
 If you would like to tweak these values, such as disabling automatic HP calculation for your character, you can go to the **Settings** tab of your character sheet to see the current values and make adjustments. This is also where you can find a number of **Special Traits** such _Quick to Fight_ for humans or _Strong Recovery_ for barbarians.
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
+
+## Ability Scores
+
+TODO
+
+## Backgrounds
+
+TODO
+
+## Icon Relationships
+
+TODO
+
+## One Unique Thing
+
+TODO
+
+## Saves, Disengage, Initiative
+
+TODO
+
+## Momentum, Ki, Command Points, and Custom Resources
+
+TODO
+
+## Powers
+
+TODO
+
+## Biography
+
+TODO
+
+## Equipment and Magic ITems
+
+TODO
+
+
 

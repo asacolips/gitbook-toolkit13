@@ -1,2 +1,2 @@
-# System Settings
+# System settings
 

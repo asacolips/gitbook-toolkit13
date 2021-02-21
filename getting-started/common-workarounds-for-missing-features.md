@@ -1,2 +1,2 @@
-# Common Workarounds for Missing Features
+# Common workarounds for missing features
 

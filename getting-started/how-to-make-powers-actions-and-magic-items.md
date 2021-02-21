@@ -1,2 +1,2 @@
-# How to Make Powers, Actions, and Magic Items
+# How to make Powers, Actions, and Magic Items
 

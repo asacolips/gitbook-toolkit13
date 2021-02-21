@@ -1,4 +1,4 @@
-# How to Make a Character
+# How to navigate Foundry's interface
 
 ## Getting Started
 
@@ -19,5 +19,7 @@ In order from left to right:
 9. **Compendiums** - Compendiums of content in your world. The system comes bundled with compendiums for each of the classes, races, and monsters in the Archmage Engine SRD.
 10. **Settings** - Settings for Foundry, the Toolkit13 system, and your modules. The system includes a handful of settings that you can use to tweak it, such as average recovery rolls and a colorblind mode for accessibility.
 
-To make either a character or monster, go to the Actors tab and click the **Create actor** button.
+To make either a character or monster, go to the Actors tab and click the **Create actor** button. You'll then be prompted to choose the actor type you want to create, a **Character** or an **NPC**.
+
+![](../.gitbook/assets/image%20%283%29.png)
 

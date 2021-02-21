@@ -1,4 +1,4 @@
-# Running Combat
+# Running combat
 
 ### How to Start and Run a Combat
 

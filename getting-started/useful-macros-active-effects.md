@@ -1,2 +1,2 @@
-# Useful Macros \(Active Effects\)
+# Useful macros \(Active Effects\)
 

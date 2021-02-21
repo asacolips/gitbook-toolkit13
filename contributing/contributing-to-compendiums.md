@@ -1,2 +1,2 @@
-# Contributing to Compendiums
+# Contributing to compendiums
 

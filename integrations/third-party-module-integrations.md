@@ -1,4 +1,4 @@
-# Third Party Module Integrations
+# Third party module integrations
 
 ### I**conic Relationship Point Card Support**
 

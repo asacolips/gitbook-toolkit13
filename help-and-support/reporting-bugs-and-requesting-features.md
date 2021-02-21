@@ -1,2 +1,2 @@
-# Reporting Bugs and Requesting Features
+# Reporting bugs and requesting features
 
