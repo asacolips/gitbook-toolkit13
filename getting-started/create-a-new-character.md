@@ -39,7 +39,7 @@ Any time you change your character class to one recognized by the system \(any c
 
 Once all of those settings are in place, you can view your stats at the top of your character sheet:
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 ### Changing Weapon and Basic Attack Settings
 
@@ -134,7 +134,7 @@ The Toolkit13 system includes all of the content included in the Archmage Engine
 
 In addition to using compendiums to add class powers, you can use the **Import** button to the right of any power category to open a dialog that lets you import powers from your class compendium. It will open separate dialogs for every class you have currently \(stacked on top of each other\) and you can select any powers you want and click "Submit" to add them to your sheet.
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 ## Biography
 
@@ -158,7 +158,7 @@ The **Equipment** tab of your character sheet collects your characters currency 
 
 To add an item to your character, you can either create an item in the **Items** tab of Foundry's right sidebar and then drag/drop it onto your character sheet, or you can create a new item directly on the character sheet. In either case, the form for editing the item's properties is the same, as listed in the screenshot below:
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 Magic items have several special properties that will affect your power rolls if you're using the powers included in the SRD compendiums.
 
