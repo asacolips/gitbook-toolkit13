@@ -4,7 +4,7 @@ Last Updated on **2/21/2021**
 
 ## Development Priorities
 
-The following priorities are the general roadmap we're expecting to develop in the short term, subject to change.
+The following priorities are the general roadmap we're expecting to develop in the short term, subject to change. This list is intended as a general idea of our priorities; for a more detailed and accurate view, see the list of Gitlab milestones below.
 
 * Documentation
 * Add inline rolls to all compendiums
@@ -43,6 +43,12 @@ The _Long-Term Tasks_ board is used to track issues that are long-term developme
 Whenever we make a release based on issues from this board, it will usually be a minor version bump, such as from 1.8.1 to 1.9.0. If the changes are disruptive enough to our users, such as removing attribute types or significantly changing the tools available on the character sheet, it may instead have a major version bump, such as from 1.8.1 to 2.0.0.
 
 {% embed url="https://gitlab.com/asacolips-projects/foundry-mods/archmage/-/boards/2426344?milestone\_title=Long-Term%20Tasks&" %}
+
+### All Issues / Uncategorized
+
+New issues are often created without being placed into a specific milestone. Those can be viewed by going to the overall issues page from the left sidebar of the Gitlab repo, or by going to the _All Issues_ board.
+
+{% embed url="https://gitlab.com/asacolips-projects/foundry-mods/archmage/-/boards/1600235" %}
 
 
 
