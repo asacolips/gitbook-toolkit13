@@ -6,6 +6,7 @@
 
 * [How to navigate Foundry's interface](getting-started/how-to-make-a-character.md)
 * [How to create a new Character](getting-started/create-a-new-character.md)
+* [Inline Rolls Reference](getting-started/inline-rolls-reference.md)
 * [How to make Powers, Actions, and Magic Items](getting-started/how-to-make-powers-actions-and-magic-items.md)
 * [How to make a Monster](getting-started/how-to-make-a-monster.md)
 * [Running combat](getting-started/combat.md)

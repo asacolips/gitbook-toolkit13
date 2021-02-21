@@ -118,6 +118,14 @@ Momentum, Command Points, and Ki Points will show up automatically based on your
 
 ## Powers
 
+There are three ways to add powers to your characters.
+
+### 1. Add a Custom Power
+
+You can click the **+Add** button to the right of any powers category/group to add a new power with no pre-filled data. This option gives you the most control, but you'll need to be familiar with the [syntax for filling out inline rolls](inline-rolls-reference.md) to do that.
+
+### 2. Drag and Drop from the SRD Compendiums
+
 
 
 ## Biography
