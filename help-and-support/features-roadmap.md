@@ -1,6 +1,6 @@
 # Features roadmap
 
-Last Updated on **2/16/2021**
+Last Updated on **2/21/2021**
 
 ## Development Priorities
 
