@@ -16,7 +16,7 @@ Several of the statistics for your character can be controlled either automatica
 Calculating out stats based on class is a setting in the system under **Settings &gt; System settings &gt; Automatically compute base stats**. If you would prefer to control this manually, the GM can disable this setting.
 {% endhint %}
 
-If you would like to tweak these values, such as disabling automatic HP calculation for your character, you can go to the **Settings** tab of your character sheet to see the current values and make adjustments. This is also where you can find a number of **Special Traits** such _Quick to Fight_ for humans or _Strong Recovery_ for barbarians.
+If you would like to tweak these values, such as disabling automatic HP calculation for your character, you can go to the **Settings** tab of your character sheet to see the current values and make adjustments. This is also where you can find a number of **Special Traits** such _Quick to Fight_ for humans or the _Strong Recovery_ general feat.
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
