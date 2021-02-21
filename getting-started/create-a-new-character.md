@@ -39,7 +39,7 @@ Any time you change your character class to one recognized by the system \(any c
 
 Once all of those settings are in place, you can view your stats at the top of your character sheet:
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 ### Changing Weapon and Basic Attack Settings
 
@@ -81,7 +81,7 @@ You can choose how many backgrounds your character has in the **Settings** tab o
 
  
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 ## Icon Relationships
 
@@ -92,13 +92,13 @@ You can choose how many icon relationships your character has in the **Settings*
 * **Relationship Points** - The total number of points you have in an icon relationship.
 * **Icon Name** - The icon this relationship applies to.
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 ## One Unique Thing
 
 Your character's One Unique Thing is in the bottom left corner of the sheet, and is a freeform text area where you can place any content you need to describe it.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 ## Saves, Disengage, Initiative
 
@@ -112,7 +112,7 @@ As mentioned in [Character Statistics and settings](create-a-new-character.md#ch
 
 If your class has a resource type it needs to track \(or if you have custom resources enabled\) they'll show up in the top section of your character. For example, here's an \(impossible\) character with the commander, monk and rogue classes:
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 Momentum, Command Points, and Ki Points will show up automatically based on your class. We don't yet currently have support built in for other resources like Focus for the Occultist, but you can still add those by using the custom resource section of the **Settings** tab. You can also use custom resources to track other things, such as icon 5s and 6s, but you're only able to have a total of 3 custom resources on character sheets at this time.
 
@@ -128,17 +128,29 @@ You can click the **+Add** button to the right of any powers category/group to a
 
 The Toolkit13 system includes all of the content included in the Archmage Engine SRD for character classes, so the easiest way to build characters is often to open both your character sheet and the compendium for your character class, and then drag and drop the relevant powers, features, and talents from the compendium onto your character sheet. Whenever you drop them, they'll automatically be sorted and placed into the appropriate group based on the grouping type you're using.
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 ### 3. Use the "Import" Dialog
 
 In addition to using compendiums to add class powers, you can use the **Import** button to the right of any power category to open a dialog that lets you import powers from your class compendium. It will open separate dialogs for every class you have currently \(stacked on top of each other\) and you can select any powers you want and click "Submit" to add them to your sheet.
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 ## Biography
 
-TODO
+To edit your character's biography, go to the **Biography** tab, hover over the content area for the biography, and then click the **pencil** icon to open the text editor and make changes.
+
+{% hint style="info" %}
+### Text Editors
+
+In addition to the Biography field, many fields on class powers use text editors, such as the **Effect** field and **Feat** descriptions. They each behave identically to how the Biography field is described below.
+{% endhint %}
+
+![](../.gitbook/assets/image%20%287%29.png)
+
+Once you're in the text editor, you can either paste in your content or edit the text directly. The editor has a number of useful controls along the top row.
+
+![](../.gitbook/assets/image%20%288%29.png)
 
 ## Equipment and Magic ITems
 
