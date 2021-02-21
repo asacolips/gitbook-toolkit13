@@ -102,7 +102,11 @@ Your character's One Unique Thing is in the bottom left corner of the sheet, and
 
 ## Saves, Disengage, Initiative
 
-TODO
+As mentioned in [Character Statistics and settings](create-a-new-character.md#character-statistics-and-settings) above, you can tweak your base stats that are displayed at the top of your character sheet in the **Settings** tab of the character sheet.
+
+* **Saving Throws**  - To roll a saving throw, click any of the three save dice icons.
+* **Disengage** - To roll a disengage check, click the dice icon next to your disengage target number \(usually 11+\). You can also adjust that target with the **Disengage Adjustment** field directly below to it, such as reducing the difficult by -5 if you're a rogue using Tumbling Strike, or increasing it by +2 if you have additional enemies you need to disengage from.
+* **Initiative** - Your total initiative number can be seen in the top right of the character sheet. This isn't currently rollable, but if your character is added to a combat \(GMs: right click the token and click the sword and shield icon\), this is the bonus your initiative rolls will use in the combat tracker.
 
 ## Momentum, Ki, Command Points, and Custom Resources
 
