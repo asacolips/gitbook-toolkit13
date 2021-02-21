@@ -37,6 +37,10 @@ Any time you change your character class to one recognized by the system \(any c
 * **Base Recoveries** - Your base number of recoveries per full heal up. This field is only used if the **Calculate Max Recoveries?** box immediately below it is enabled.
 * **Initiative** - Additional modifiers to increase your initiative modifier by. Initiative is always calculated as Dexterity modifier + Level, but it can be adjusted further by using the _Quick to Fight_ or _Improved Initiative_ flags, along with this field to adjust the final number.
 
+Once all of those settings are in place, you can view your stats at the top of your character sheet:
+
+![](../.gitbook/assets/image%20%2810%29.png)
+
 ### Changing Weapon and Basic Attack Settings
 
 In addition to the settings related to base HP and defenses, the settings tab includes options to change the following values related to your basic attacks. These values aren't directly visible on your character sheet, but they are often factored into powers related to your class in the compendiums included with the system. As with the previous section, these values will be updated if you change your class.
@@ -59,19 +63,42 @@ Finally, there three sections towards the bottom of your sheet settings where yo
 
 ## Ability Scores
 
-TODO
+The ability scores for your character are in the first section of the character sheet's left sidebar, under the **Abilities** tab.
+
+* **Ability Name** - Each score has a clickable name that can be used to make ability check rolls, including an option to select a relevant background and apply modifiers.
+* **Ability Score** - Your ability scores are the center column of numbers, which are editable. These default to 10 until you change them.
+* **Ability Modifier** - Your raw ability modifier, such as +4 on a score of 18, is in the left column of numbers. This number is calculated.
+* **Ability Modifier + Level** - Your ability modifier plus your current level, such as +6 on a score of 18  for a level 2 character, is in the right column of numbers. This number is calculated.
+
+![](../.gitbook/assets/image%20%286%29.png)
 
 ## Backgrounds
 
-TODO
+You can choose how many backgrounds your character has in the **Settings** tab of the character sheet, up to a total of 8 backgrounds. Each background has two parts:
+
+* **Bonus** - The number of points in the background that will apply as a bonus to relevant ability checks.
+* **Name** - The name of the background, which can be any text that you want.
+
+ 
+
+![](../.gitbook/assets/image%20%289%29.png)
 
 ## Icon Relationships
 
-TODO
+You can choose how many icon relationships your character has in the **Settings** tab of the character sheet, up to a total of 5 icon relationships. Each icon relationship has 4 parts.
+
+* **Dice Icon** - The dice icon for each relationship can be clicked to roll the relationship.
+* **Relationship Type** - The relationship type dropdown lets you choose between positive, conflicted, and negative relationships.
+* **Relationship Points** - The total number of points you have in an icon relationship.
+* **Icon Name** - The icon this relationship applies to.
+
+![](../.gitbook/assets/image%20%288%29.png)
 
 ## One Unique Thing
 
-TODO
+Your character's One Unique Thing is in the bottom left corner of the sheet, and is a freeform text area where you can place any content you need to describe it.
+
+![](../.gitbook/assets/image%20%287%29.png)
 
 ## Saves, Disengage, Initiative
 
