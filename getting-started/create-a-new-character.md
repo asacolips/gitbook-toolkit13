@@ -39,7 +39,7 @@ Any time you change your character class to one recognized by the system \(any c
 
 Once all of those settings are in place, you can view your stats at the top of your character sheet:
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 ### Changing Weapon and Basic Attack Settings
 
@@ -110,11 +110,15 @@ As mentioned in [Character Statistics and settings](create-a-new-character.md#ch
 
 ## Momentum, Ki, Command Points, and Custom Resources
 
-TODO
+If your class has a resource type it needs to track \(or if you have custom resources enabled\) they'll show up in the top section of your character. For example, here's an \(impossible\) character with the commander, monk and rogue classes:
+
+![](../.gitbook/assets/image%20%2810%29.png)
+
+Momentum, Command Points, and Ki Points will show up automatically based on your class. We don't yet currently have support built in for other resources like Focus for the Occultist, but you can still add those by using the custom resource section of the **Settings** tab. You can also use custom resources to track other things, such as icon 5s and 6s, but you're only able to have a total of 3 custom resources on character sheets at this time.
 
 ## Powers
 
-TODO
+
 
 ## Biography
 
