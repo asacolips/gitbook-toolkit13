@@ -53,78 +53,87 @@ If you need to select between two ability scores, you can use `min()` to select 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">@str.mod</td>
+      <td style="text-align:left"><code>@str.mod</code>
+      </td>
       <td style="text-align:left">
         <p>Ability score modifiers, such as +5 for a 20.</p>
         <p><b>Variants:</b>
         </p>
         <ul>
-          <li>@str.mod (strength)</li>
-          <li>@dex.mod (dexterity)</li>
-          <li>@con.mod (constitution)</li>
-          <li>@int.mod (intelligence)</li>
-          <li>@wis.mod (wisdom)</li>
-          <li>@cha.mod (charisma)</li>
+          <li><code>@str.mod</code> (strength)</li>
+          <li><code>@dex.mod</code> (dexterity)</li>
+          <li><code>@con.mod</code> (constitution)</li>
+          <li><code>@int.mod</code> (intelligence)</li>
+          <li><code>@wis.mod</code> (wisdom)</li>
+          <li><code>@cha.mod</code> (charisma)</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">@str.dmg</td>
+      <td style="text-align:left"><code>@str.dmg</code>
+      </td>
       <td style="text-align:left">
         <p>Ability score modifiers multipled by tier, such as +10 for a score of
           20 at 5th level.</p>
         <p><b>Variants:</b>
         </p>
         <ul>
-          <li>@str.dmg (strength)</li>
-          <li>@dex.dmg (dexterity)</li>
-          <li>@con.dmg (constitution)</li>
-          <li>@int.dmg (intelligence)</li>
-          <li>@wis.dmg (wisdom)</li>
-          <li>@cha.dmg (charisma)</li>
+          <li><code>@str.dmg</code> (strength)</li>
+          <li><code>@dex.dmg</code> (dexterity)</li>
+          <li><code>@con.dmg</code> (constitution)</li>
+          <li><code>@int.dmg</code> (intelligence)</li>
+          <li><code>@wis.dmg</code> (wisdom)</li>
+          <li><code>@cha.dmg</code> (charisma)</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">@lvl</td>
+      <td style="text-align:left"><code>@lvl</code>
+      </td>
       <td style="text-align:left">Your level</td>
     </tr>
     <tr>
-      <td style="text-align:left">@ed</td>
+      <td style="text-align:left"><code>@ed</code>
+      </td>
       <td style="text-align:left">The current escalation die value for the current combat/scene</td>
     </tr>
     <tr>
-      <td style="text-align:left">@init</td>
+      <td style="text-align:left"><code>@init</code>
+      </td>
       <td style="text-align:left">Your initiative bonus</td>
     </tr>
     <tr>
-      <td style="text-align:left">@std</td>
+      <td style="text-align:left"><code>@std</code>
+      </td>
       <td style="text-align:left">Standard bonuses for attack rolls. This is calculated as <code>@lvl+@ed+penalties</code> if
         any (such as having negative remaining recoveries).</td>
     </tr>
     <tr>
-      <td style="text-align:left">@tier</td>
+      <td style="text-align:left"><code>@tier</code>
+      </td>
       <td style="text-align:left">A number that can be used for cases where you need to multiply by tier. <code>1</code> at
         adventurer tier, <code>2</code> at champion tier, and <code>3</code> at epic
         tier.</td>
     </tr>
     <tr>
-      <td style="text-align:left">@wpn.m.die</td>
+      <td style="text-align:left"><code>@wpn.m.die</code>
+      </td>
       <td style="text-align:left">
         <p>The single die associated with your melee damage rolls, such as <code>d10</code>.</p>
         <p><b>Variants:</b>
         </p>
         <ul>
-          <li>@wpn.m.die (melee)</li>
-          <li>@wpn.r.die (ranged)</li>
-          <li>@wpn.j.die (JAB)</li>
-          <li>@wpn.p.die (PUNCH)</li>
-          <li>@wpn.k.die (KICK)</li>
+          <li><code>@wpn.m.die</code> (melee)</li>
+          <li><code>@wpn.r.die</code> (ranged)</li>
+          <li><code>@wpn.j.die</code> (JAB)</li>
+          <li><code>@wpn.p.die</code> (PUNCH)</li>
+          <li><code>@wpn.k.die</code> (KICK)</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">@wpn.m.dice</td>
+      <td style="text-align:left"><code>@wpn.m.dice</code>
+      </td>
       <td style="text-align:left">
         <p></p>
         <p>The total dice per level associated with your melee damage rolls, such
@@ -132,25 +141,26 @@ If you need to select between two ability scores, you can use `min()` to select 
         <p><b>Variants:</b>
         </p>
         <ul>
-          <li>@wpn.m.dice (melee)</li>
-          <li>@wpn.r.dice (ranged)</li>
-          <li>@wpn.j.dice (JAB)</li>
-          <li>@wpn.p.dice (PUNCH)</li>
-          <li>@wpn.k.dice (KICK)</li>
+          <li><code>@wpn.m.dice</code> (melee)</li>
+          <li><code>@wpn.r.dice</code> (ranged)</li>
+          <li><code>@wpn.j.dice</code> (JAB)</li>
+          <li><code>@wpn.p.dice</code> (PUNCH)</li>
+          <li><code>@wpn.k.dice</code> (KICK)</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">@atk.m.bonus</td>
+      <td style="text-align:left"><code>@atk.m.bonus</code>
+      </td>
       <td style="text-align:left">
         <p>The item bonus for your magic item&apos;s attack and damage rolls.</p>
         <p><b>Variants:</b>
         </p>
         <ul>
-          <li>@atk.m.bonus (melee weapons)</li>
-          <li>@atk.r.bonus (ranged weapons)</li>
-          <li>@atk.a.bonus (arcane implements)</li>
-          <li>@atk.d.bonus (divine implements)</li>
+          <li><code>@atk.m.bonus</code> (melee weapons)</li>
+          <li><code>@atk.r.bonus</code> (ranged weapons)</li>
+          <li><code>@atk.a.bonus</code> (arcane implements)</li>
+          <li><code>@atk.d.bonus</code> (divine implements)</li>
         </ul>
       </td>
     </tr>
