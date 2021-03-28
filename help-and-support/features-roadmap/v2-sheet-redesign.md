@@ -1,6 +1,8 @@
 # V2 Sheet Redesign
 
-Version 1.10.0 of the system is shaping up to be one of our biggest releases yet! This update focuses on three areas: a new and improved character sheet, a power import dialog to help build characters, and lots of small quality of life and automation enhancements.
+We're nearing release for version 1.10.0 of the system, and it's looking like one of our biggest releases yet! We currently have a Patreon alpha version as an early access preview of the new features while we continue testing them. 
+
+This update focuses on three areas: a new and improved character sheet, a power import dialog to help build characters, and lots of small quality of life and automation enhancements.
 
 {% hint style="warning" %}
 We've taken care in this release to avoid issues with data loss, but as with any alpha release, make sure to back up your world first!
