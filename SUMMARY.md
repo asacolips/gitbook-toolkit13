@@ -27,5 +27,6 @@
 
 * [Reporting bugs and requesting features](help-and-support/reporting-bugs-and-requesting-features.md)
 * [Discord](help-and-support/discord.md)
-* [Features roadmap](help-and-support/features-roadmap.md)
+* [Features roadmap](help-and-support/features-roadmap/README.md)
+  * [V2 Sheet Redesign](help-and-support/features-roadmap/v2-sheet-redesign.md)
 
