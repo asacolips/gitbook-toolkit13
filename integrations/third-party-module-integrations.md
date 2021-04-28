@@ -1,6 +1,28 @@
 # Third party module integrations
 
-### I**conic Relationship Point Card Support**
+The following Modules have explicit integration or support with the System
+
+### 🌑Dungeon Moon: Encounter Builder
+
+![](https://raw.githubusercontent.com/cswendrowski/FoundryVTT-Encounter-Builder/master/dungeonmoon_cover.png)
+
+🌑Dungeon Moon has built-in support for loading the included SRD monsters, as well as any Actors you have defined in your world. It uses the SRD rules for building a fair encounter, enabling GM's to guickly and easily build up ambushes, chance encounters, or the next session's foes.
+
+See it in action here: https://www.patreon.com/posts/dungeon-moon-45469551
+
+https://github.com/cswendrowski/FoundryVTT-Encounter-Builder
+
+
+### Arbron's Improved HP Bar
+
+![](https://raw.githubusercontent.com/arbron/fvtt-hp-bar/main/images/temp.webp)
+
+Temporary health will be rendered in the Token's bars
+
+https://github.com/arbron/fvtt-hp-bar
+
+
+### Iconic Relationship Point Card Support
 
 As of 1.7.0, Iconic Relationship points can automatically give out Cards that represent them using this module: 
 
