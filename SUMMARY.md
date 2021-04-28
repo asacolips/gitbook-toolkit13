@@ -17,6 +17,7 @@
 ## Integrations
 
 * [Third party module integrations](integrations/third-party-module-integrations.md)
+* [Recommended Modules](integrations/recommended-modules.md)
 
 ## Contributing
 
